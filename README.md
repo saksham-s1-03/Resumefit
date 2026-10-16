@@ -59,3 +59,7 @@ Prerequisites: JDK 17+, Maven, Node 18+, and an Anthropic API key (console.anthr
 3. Stream the AI response to the UI (SSE).
 4. Unit tests for AiService (mock RestClient) and an integration test for AuthController.
 5. GitHub Actions: build and test on every push.
+
+## License
+
+Proprietary Software License.
